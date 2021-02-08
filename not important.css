@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background:linear-gradient(to left,#F29783,#F0AC9D);
+}
+h1{
+    margin-left: 42%;
+    margin-top: 20%;
+}
+button{
+    padding: 1% 2%;
+   margin-left: 48%;
+   margin-top: 2%;
+}
+button:hover{
+    color: blue;
+}
+button:active{
+    color: red;
+}
